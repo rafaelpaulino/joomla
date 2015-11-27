@@ -1,4 +1,5 @@
 fixScale = function(doc) {
+	
 
 	var addEvent = 'addEventListener',
 	    type = 'gesturestart',
@@ -18,3 +19,7 @@ fixScale = function(doc) {
 	}
 
 };
+
+function Ola(nome){
+	console.info("Oi joomla "+nome)
+}
